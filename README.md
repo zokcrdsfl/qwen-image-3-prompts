@@ -101,6 +101,15 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, other languages** — 10 more language builds: 中文 [qwen-image-3-api-cn](https://github.com/o28sbw/qwen-image-3-api-cn) · Deutsch `qwen-image-3-api-de` · Español [qwen-image-3-api-es](https://github.com/gjua8u/qwen-image-3-api-es) · Français `qwen-image-3-api-fr` · Relay/gateway [qwen-image-3-api-gateway](https://github.com/zokcrdsfl/qwen-image-3-api-gateway) · Bahasa `qwen-image-3-api-id` · 日本語 `qwen-image-3-api-ja` · 한국어 `qwen-image-3-api-ko` · Português `qwen-image-3-api-pt` · Русский [qwen-image-3-api-ru](https://github.com/tlv54zpy0/qwen-image-3-api-ru)
+- **Topic hubs** — every build of this model, all languages: [qwen-image-3](https://github.com/topics/qwen-image-3) · [qwen-image-3-api](https://github.com/topics/qwen-image-3-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
